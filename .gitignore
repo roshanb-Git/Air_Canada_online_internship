@@ -1,0 +1,12 @@
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folder
+myenv/
+
+# Ignore images and PDFs
+*.png
+*.pdf
